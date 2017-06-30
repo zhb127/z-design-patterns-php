@@ -2,7 +2,7 @@
 
 namespace DesignPatterns\Creational\SimpleFactory;
 
-interface ITV
+interface TVInterface
 {
     public function play();
 }

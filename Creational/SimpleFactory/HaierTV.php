@@ -2,7 +2,7 @@
 
 namespace DesignPatterns\Creational\SimpleFactory;
 
-class HaierTV implements ITV
+class HaierTV implements TVInterface
 {
     public function play()
     {

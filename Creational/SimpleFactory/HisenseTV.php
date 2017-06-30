@@ -2,7 +2,7 @@
 
 namespace DesignPatterns\Creational\SimpleFactory;
 
-class HisenseTV implements ITV
+class HisenseTV implements TVInterface
 {
     public function play()
     {
